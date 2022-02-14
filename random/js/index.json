@@ -1,41 +1,18 @@
 {
-    "squadName" : "Super Hero Squad",
-    "homeTown" : "Metro City",
-    "formed" : 2016,
-    "secretBase" : "Super tower",
-    "active" : true,
-    "members" : [
-      {
-        "name" : "Molecule Man",
-        "age" : 29,
-        "secretIdentity" : "Dan Jukes",
-        "powers" : [
-          "Radiation resistance",
-          "Turning tiny",
-          "Radiation blast"
-        ]
-      },
-      {
-        "name" : "Madame Uppercut",
-        "age" : 39,
-        "secretIdentity" : "Jane Wilson",
-        "powers" : [
-          "Million tonne punch",
-          "Damage resistance",
-          "Superhuman reflexes"
-        ]
-      },
-      {
-        "name" : "Eternal Flame",
-        "age" : 1000000,
-        "secretIdentity" : "Unknown",
-        "powers" : [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
-          "Interdimensional travel"
-        ]
-      }
-    ]
-  }
+    "qotd_date": "2022-02-15T00:00:00.000+00:00",
+    "quote": {
+        "id": 60006,
+        "dialogue": false,
+        "private": false,
+        "tags": [
+            "wisdom"
+        ],
+        "url": "https://favqs.com/quotes/oliver-wendell-holmes/60006-the-young-man-",
+        "favorites_count": 3,
+        "upvotes_count": 1,
+        "downvotes_count": 0,
+        "author": "Oliver Wendell Holmes",
+        "author_permalink": "oliver-wendell-holmes",
+        "body": "The young man knows the rules, but the old man knows the exceptions."
+    }
+}

@@ -32,8 +32,8 @@
 }
 
 .wrapper > .wrapper__paragraf {
-    text-shadow: 10px 10px 10px blue;
-    color: red;
+    text-shadow: 0px 10px 10px black;
+    color: black;
 }
 
 .wrapper > .wrapper__btn {
